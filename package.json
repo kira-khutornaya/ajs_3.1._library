@@ -1,0 +1,22 @@
+{
+  "name": "ajs_3.1._library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kira-khutornaya/ajs_3.1._library.git"
+  },
+  "author": "Kira <k@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kira-khutornaya/ajs_3.1._library/issues"
+  },
+  "homepage": "https://github.com/kira-khutornaya/ajs_3.1._library#readme",
+  "dependencies": {
+    "@kira-khutornaya/ajs_3.1_platforms": "^1.0.0"
+  }
+}
